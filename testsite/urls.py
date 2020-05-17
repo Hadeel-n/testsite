@@ -7,6 +7,7 @@ from django.views.generic import TemplateView
 from graphene_django.views import GraphQLView
 
 
+
 urlpatterns = [
 
     path('admin/', admin.site.urls),
